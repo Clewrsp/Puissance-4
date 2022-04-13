@@ -1,5 +1,5 @@
 ##############################################################
-# Auteurs : Clément Crespin, Anatole Joris, Faustine Passerat
+# Auteurs : Clément Crespin, Anatole Jooris, Faustine Passerat
 ##############################################################
 
 ######################
@@ -18,7 +18,7 @@ HAUTEUR = 600
 #############################################
 ###################
 # Fonctions
-
+oui
 
 ############################
 # programme principal
