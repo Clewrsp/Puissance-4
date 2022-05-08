@@ -1,6 +1,6 @@
 # Puissance-4
 
-Noms et prénoms des étudiants du groupe :
+Participants du projet :
 - Anatole Jooris
 - Clément Crespin
 - Faustine Passerat
