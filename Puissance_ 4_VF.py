@@ -3,7 +3,7 @@
 """
 Created on Fri Apr 29 21:10:07 2022
 
-@authors: Anatole Jooris, Clément Crespin, Faustine Passerat
+@authors: Anatole Jooris, Faustine Passerat, Clément Crespin
 """
 from tkinter import *
 
