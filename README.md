@@ -7,7 +7,7 @@ Membres du projet :
 
 Groupe : LDDMP
 
-url du code : https://github.com/Clewrsp/Puissance-4/blob/912a65569ba58c0b07b870613c99fbde283d8d62/Puissance_%204_VF.py
+url du code : https://github.com/Clewrsp/Puissance-4/blob/9176dceac71845fe847295ab6e77efb4402b4f1f/Puissance_%204.py
 
 
 Répartition du travail :
