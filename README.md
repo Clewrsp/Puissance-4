@@ -22,7 +22,7 @@ Nous avons de tenté de réaliser un puissance 4 avec interface graphique simple
 - Il est possible de jouer au jeu à 2 joueurs, chacun représenté par un pion (cercle) d'une couleur différente (rouge et jaune).
 Pour placer un pion, il suffit de cliquer sur la case que l'on souhaite afin de faire apparaître un cercle de couleur.
 - Nous avons mis en place une fonctionnalité permettant d'enregistrer 1 partie que l'on peut ouvrir et reprendre à tout moment grâce aux boutons "enregistrer" et "ouvrir".
-- Les joueurs peuvent annuler le coup qu'ils viennent d'éffectuer précédemment à l'aide au bouton "undo".
+- Les joueurs peuvent annuler le coup qu'ils viennent d'éffectuer précédemment à l'aide au bouton "Annuler coup".
 - Il est égalemement possible de réinitialiser la partie à l'aide du bouton "recommencer".
 
 Lorsqu'un joueur réalise une succession de 4 jetons, celui-ci gagne la partie : Affichage de "ROUGE GAGNE" ou "JAUNE GAGNE" selon le joueur gagnant.
