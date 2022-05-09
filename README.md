@@ -5,7 +5,6 @@ Participants du projet :
 - Clément Crespin
 - Faustine Passerat
 
-Groupe :
-LDDMP
+Groupe : LDDMP
 
 url du code :
