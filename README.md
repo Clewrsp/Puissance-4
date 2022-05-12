@@ -9,6 +9,8 @@ Groupe : LDDMP
 
 url du code : https://github.com/Clewrsp/Puissance-4/blob/9176dceac71845fe847295ab6e77efb4402b4f1f/Puissance_%204.py
 
+code avec correcttions : https://github.com/Clewrsp/Puissance-4/blob/bf1647ed763a55cd7cb34440dd6bfa301bfc43f3/Puissance_%204.py
+
 
 Répartition du travail :
 - Structure  principale et mise en page du code : Anatole Jooris
