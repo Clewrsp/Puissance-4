@@ -141,7 +141,7 @@ def test_puissance4():
                 gagnant = "ROUGE"
                 return True
             if "0000" in diag :
-                gagnant = "ROUGE"
+                gagnant = "JAUNE"
                 return True
     gagnant = 0
     
