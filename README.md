@@ -9,7 +9,7 @@ Groupe : LDDMP
 
 url du code : https://github.com/Clewrsp/Puissance-4/blob/9176dceac71845fe847295ab6e77efb4402b4f1f/Puissance_%204.py
 
-code avec correcttions : https://github.com/Clewrsp/Puissance-4/blob/bf1647ed763a55cd7cb34440dd6bfa301bfc43f3/Puissance_%204.py
+code avec corrections : https://github.com/Clewrsp/Puissance-4/blob/28e2007e24875ba1f37fee8852f60ab913ac2b5a/Puissance_%204_Last.py
 
 
 Répartition du travail :
@@ -26,6 +26,6 @@ Le joueur qui commence est indiqué au hasard suivant la couleur choisit en bas 
 - Nous avons tenté de mettre en place une fonctionnalité permettant d'enregistrer 1 partie que l'on peut ouvrir et reprendre à tout moment grâce aux boutons "enregistrer" et "ouvrir".
 - Les joueurs peuvent annuler le coup qu'ils viennent d'éffectuer précédemment à l'aide au bouton "Annuler coup".
 - Il est égalemement possible de réinitialiser la partie à l'aide du bouton "recommencer".
+- Début de création d'un IA mais non fonctionnel.
 
-Lorsqu'un joueur réalise une succession de 4 jetons, celui-ci gagne la partie : Affichage de "ROUGE GAGNE" ou "JAUNE GAGNE" selon le joueur gagnant.
-Lorsque la grille est pleine, la partie est nulle.
+Lorsqu'un joueur réalise une succession de 4 jetons, celui-ci gagne la partie : Affichage de "ROUGE GAGNE" ou "JAUNE GAGNE" selon le joueur gagnant et lorsque la grille est pleine, la partie est nulle.
