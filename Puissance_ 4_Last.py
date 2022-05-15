@@ -87,6 +87,7 @@ def test_match_nul():
         for j in range(7):
             if memoire[i][j] == "2" :
                 return False
+    print("Match Nul !")
     return True
         
 
